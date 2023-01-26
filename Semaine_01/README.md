@@ -1,1 +1,1 @@
-
+Fiche de présentation, photographie
