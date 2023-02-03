@@ -13,7 +13,7 @@ Nom de l'artiste: Louis-Philippe Rondeau
 
 Année de réalisation: 2021
 
-Description de l'oeuvre: 
+Description de l'oeuvre: Une structure est érigée au centre de l'œuvre. L'intérieur de la structure est éclairé par des lumières leds. Cette structure possède aussi une caméra permettant de scanner les visiteurs qui passent au travers. Lorsqu’une personne passe à travers l'œuvre, elle est scannée et l'image prise apparaît sur l’écran. Celui-ci est situé à côté de la structure. Les photos prises restent en mémoire sur l’écran et apparaissent aléatoirement. Des aberrations chromatiques sont appliquées sur les images pour rendre l'œuvre plus intéressante.
 
 Type d'installation: Interactive - Les visiteurs sont amenés à interagir avec l'installation. 
 
