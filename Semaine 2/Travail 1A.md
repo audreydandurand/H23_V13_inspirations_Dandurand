@@ -23,7 +23,7 @@ Composantes et techniques: Les composantes sont a structure, la caméra, le socl
 
 Éléments nécessaires à la mise en exposition:	La structure tenant l'écran Leds, les caches-fils, les crochets et les cables. 
 
-Expérience vécue: Le visiteur est amené à interagir avec l'oeuvre en passant dans la structure qui est au centre de l'installation. Après y avoir passé, il peut observer l'image qui a été prise et qui est elle-même projetée sur l'écran Leds. 
+Expérience vécue: Le visiteur est amené à interagir avec l'oeuvre en passant dans la structure qui est au centre de l'installation. Après y avoir passé, il peut observer l'image qui a été prise et qui est elle-même projetée sur l'écran Leds. La disposition aléatoire des photographies prises et des effets appliqués peuvent être observés.
 
 ❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications):
 
