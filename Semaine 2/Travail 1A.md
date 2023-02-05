@@ -20,11 +20,11 @@ Type d'installation: Interactive - Les visiteurs sont amenés à interagir avec 
 
 Mise en espace: La structure est placée au centre et à côté de celle-ci se trouve l'écran qui diffuse les photographies prises. 
 
-Composantes et techniques: Les composantes sont a structure, la caméra, le socle par-terre, l'écran, les haut-parleurs, l'ordinateurs, les ampoules, les lumières Leds et les composantes électroniques.
+Composantes et techniques: Les composantes sont la structure, la caméra, le socle parterre, l'écran, les haut-parleurs, l'ordinateur, les ampoules, les lumières LED et les composantes électroniques.
 
-Éléments nécessaires à la mise en exposition:	La structure tenant l'écran Leds, les caches-fils, les crochets et les cables. 
+Éléments nécessaires à la mise en exposition:	La structure tenant l'écran LED, les caches-fils, les crochets et les câbles. 
 
-Expérience vécue: Le visiteur est amené à interagir avec l'oeuvre en passant dans la structure qui est au centre de l'installation. Après y avoir passé, il peut observer l'image qui a été prise et qui est elle-même projetée sur l'écran Leds. La disposition aléatoire des photographies prises et des effets appliqués peuvent être observés.
+Expérience vécue: Le visiteur est amené à interagir avec l'oeuvre en passant dans la structure qui est au centre de l'installation. Après y avoir passé, il peut observer l'image qui a été prise et qui est elle-même projetée sur l'écran LED. La disposition aléatoire des photographies prises et des effets appliqués peuvent être observés.
 
 ❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications): J'aime le fait que l'œuvre est de type d'interaction, car elle permet de rendre la visite des visiteurs beaucoup plus enrichissante. C'est une oeuvre qui peut être intéressante pour n'importe quelle tranche d'âge. 
 
