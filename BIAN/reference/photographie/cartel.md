@@ -1,1 +1,2 @@
-![cartel](https://user-images.githubusercontent.com/112189528/216828131-2d3a8b80-abe6-4f4d-8a2e-334e8d59063e.PNG)
+![affiche_bonne_dimension](https://user-images.githubusercontent.com/112189528/219092484-64fa66fd-53d7-48f2-8989-960452ff72b4.png)
+
