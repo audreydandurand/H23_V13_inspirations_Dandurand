@@ -40,6 +40,7 @@ Plusieurs éléments sont mis en place lors de l'exposition. Par exemple, il y a
 
 ### Expérience vécue
 Le visiteur est amené à interagir avec l'oeuvre en passant dans la structure qui est au centre de l'installation. Après y avoir passé, il peut observer l'image qui a été prise et qui est elle-même projetée sur l'écran LED. La disposition aléatoire des photographies prises et des effets appliqués peuvent être observés.
+Dans cette vidéo, nous avons un apperçu de l'interaction du visiteur avec l'oeuvre: https://youtu.be/7HUZBPuqh7Y.
 
 ### Aspect intéressant
 J'aime le fait que l'œuvre est de type d'interaction, car elle permet de rendre la visite des visiteurs beaucoup plus enrichissante. C'est une oeuvre qui peut être intéressante pour n'importe quelle tranche d'âge. 
