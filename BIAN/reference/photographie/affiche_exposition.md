@@ -1,1 +1,2 @@
-![affiche_exposition](https://user-images.githubusercontent.com/112189528/216827705-71768509-5445-457f-812a-be384267da1f.jpg)
+![affiche_exposition](![affiche_bonne_dimension](https://user-images.githubusercontent.com/112189528/219072743-ee101ed4-a198-4b0b-a20e-49f93fd34dae.jpg)
+
