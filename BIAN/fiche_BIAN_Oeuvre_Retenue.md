@@ -24,6 +24,7 @@ Cette oeuvre a été réalisé en 2021.
 
 ### Description de l'oeuvre 
 Une structure est érigée au centre de l'œuvre. L'intérieur de la structure est éclairé par des lumières leds. Cette structure possède aussi une caméra permettant de scanner les visiteurs qui passent au travers. Lorsqu’une personne passe à travers l'œuvre, elle est scannée et l'image prise apparaît sur l’écran. Celui-ci est situé à côté de la structure. Les photos prises restent en mémoire sur l’écran et apparaissent aléatoirement. Des aberrations chromatiques sont appliquées sur les images pour rendre l'œuvre plus intéressante.
+Cette vidéo montre l'oeuvre et les interactions des visiteurs: https://youtu.be/WWYiyd4g-4U.
 
 ### Type d'installation 
 Les visiteurs sont amenés à interagir avec l'installation en passant sous la structure pour voir leur image projettée sur l'écran. C'est pourquoi qu'elle est défénit comme étant une oeuvre interractive. 
