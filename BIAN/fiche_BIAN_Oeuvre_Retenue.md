@@ -38,8 +38,15 @@ La structure est placée au centre et à côté de celle-ci se trouve l'écran q
 ### Composantes et techniques 
 Les composantes sont la structure, la caméra, le socle parterre, l'écran, les haut-parleurs, l'ordinateur, les ampoules, les lumières LED et les composantes électroniques.
 
+![affiche_vonne_dimension_03](https://user-images.githubusercontent.com/112189528/219091828-9ef4793b-635c-4b9d-83c0-998165087631.png)
+![affiche_vonne_dimension_04](https://user-images.githubusercontent.com/112189528/219092234-b170f809-6972-4f23-81cf-0537124a7709.png)
+
+
 ### Éléments nécessaires à la mise en exposition
 Plusieurs éléments sont mis en place lors de l'exposition. Par exemple, il y a la structure tenant l'écran LED, les caches-fils, les crochets qui tiennent les panneaux de l'écran LED et les différents câbles utiles. 
+
+![affiche_vonne_dimension_02](https://user-images.githubusercontent.com/112189528/219091280-5b5e8c1d-0abc-4379-901d-df4cddcc307b.png)
+
 
 ### Expérience vécue
 Le visiteur est amené à interagir avec l'oeuvre en passant dans la structure qui est au centre de l'installation. Après y avoir passé, il peut observer l'image qui a été prise et qui est elle-même projetée sur l'écran LED. La disposition aléatoire des photographies prises et des effets appliqués peuvent être observés.
