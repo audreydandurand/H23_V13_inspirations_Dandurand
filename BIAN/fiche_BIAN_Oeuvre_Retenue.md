@@ -48,7 +48,7 @@ Les visiteurs sont amenés à interagir avec l'installation en passant sous la s
 ### Mise en espace 
 La structure est placée au centre et à côté de celle-ci se trouve l'écran qui diffuse les photographies prises. 
 
-
+![affiche_bonne_dimension_09](https://user-images.githubusercontent.com/112189528/219098253-14b284bd-0e19-4a48-9e81-008df3d132de.png)
 
 ### Composantes et techniques 
 Les composantes sont la structure, la caméra, le socle parterre, l'écran, les haut-parleurs, l'ordinateur, les ampoules, les lumières LED et les composantes électroniques.
