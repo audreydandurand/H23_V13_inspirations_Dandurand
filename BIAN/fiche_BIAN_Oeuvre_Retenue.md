@@ -48,7 +48,8 @@ Les visiteurs sont amenés à interagir avec l'installation en passant sous la s
 ### Mise en espace 
 La structure est placée au centre et à côté de celle-ci se trouve l'écran qui diffuse les photographies prises. 
 
-![affiche_bonne_dimension_09](https://user-images.githubusercontent.com/112189528/219098253-14b284bd-0e19-4a48-9e81-008df3d132de.png)
+![affiche_bonne_dimension_10](https://user-images.githubusercontent.com/112189528/219099893-e323ea55-d5ee-4896-9ef7-3b9b46283327.png)
+![affiche_bonne_dimension_09](https://user-images.githubusercontent.com/112189528/219099880-54495c73-d05c-49dd-8083-af3da17b2f52.png)
 
 ### Composantes et techniques 
 Les composantes sont la structure, la caméra, le socle parterre, l'écran, les haut-parleurs, l'ordinateur, les ampoules, les lumières LED et les composantes électroniques.
@@ -68,6 +69,7 @@ Le visiteur est amené à interagir avec l'oeuvre en passant dans la structure q
 Dans cette vidéo, nous avons un apperçu de l'interaction du visiteur avec l'oeuvre: https://youtu.be/7HUZBPuqh7Y.
 
 ![affiche_bonne_dimension_08](https://user-images.githubusercontent.com/112189528/219095967-4d302d8d-0be9-4bc7-92aa-70cf16c66e3b.png)
+![affiche_bonne_dimension_11](https://user-images.githubusercontent.com/112189528/219099967-47bb6077-b070-40a0-be95-458b060ea803.png)
 
 ### Aspect intéressant
 J'aime le fait que l'œuvre est de type d'interaction, car elle permet de rendre la visite des visiteurs beaucoup plus enrichissante. C'est une oeuvre qui peut être intéressante pour n'importe quelle tranche d'âge. 
