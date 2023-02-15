@@ -5,9 +5,10 @@ Exposition d'art numérique Bian 6 - Metamorphosis
 
 ### Lieu de mise en exposition
 L'exposition a eu lieu à l'Arsenal art contemporain à Montréal.
-
 ### Type d'exposition
 C'est une exposition intérieure et qui est temporaire, puisqu'elle est présentée du 1er décembre au 5 février. Elle dure donc 2 mois. 
+![216827705-71768509-5445-457f-812a-be384267da1f](https://user-images.githubusercontent.com/112189528/219074354-18f368e1-d5b7-4c4f-8bfc-9a8a36620ab2.png)
+
 
 ### Date de votre visite
 La visite a eu lieu le jeudi 2 février 2023.
@@ -25,6 +26,8 @@ Cette oeuvre a été réalisé en 2021.
 ### Description de l'oeuvre 
 Une structure est érigée au centre de l'œuvre. L'intérieur de la structure est éclairé par des lumières leds. Cette structure possède aussi une caméra permettant de scanner les visiteurs qui passent au travers. Lorsqu’une personne passe à travers l'œuvre, elle est scannée et l'image prise apparaît sur l’écran. Celui-ci est situé à côté de la structure. Les photos prises restent en mémoire sur l’écran et apparaissent aléatoirement. Des aberrations chromatiques sont appliquées sur les images pour rendre l'œuvre plus intéressante.
 Cette vidéo montre l'oeuvre et les interactions des visiteurs: https://youtu.be/WWYiyd4g-4U.
+
+![affiche_bonne_dimension](https://user-images.githubusercontent.com/112189528/219074819-68e10021-4b98-4f97-9ff7-49331059a001.png)
 
 ### Type d'installation 
 Les visiteurs sont amenés à interagir avec l'installation en passant sous la structure pour voir leur image projettée sur l'écran. C'est pourquoi qu'elle est défénit comme étant une oeuvre interractive. 
