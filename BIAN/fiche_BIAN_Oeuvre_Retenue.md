@@ -14,6 +14,7 @@ La visite a eu lieu le jeudi 2 février 2023.
 
 ### Titre de l'oeuvre 
 L'oeuvre choisie se nomme Résonances.
+Voici une vue d'ensemble de l'oeuvre choisie: https://youtu.be/J0mjus15XDk.
 
 ### Nom de l'artiste
 L'artiste qui a créé l'oeuvre Résonances est Louis-Philippe Rondeau.
