@@ -9,15 +9,33 @@ Les créateurs sont Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Max
 
 Ce parcours interactif met en place la nature par la diffusion d'un marais. Les visiteurs sont donc entourés de ce monde. La nature et les humains sont donc bien représentés dans ce projet.
 
+Voici leur shéma de plantation:
+
+![plantation boucle](https://user-images.githubusercontent.com/112189528/219512579-99c39bad-8903-4f53-8c7c-797c008d451d.png)
+
+source:https://github.com/Boucle-RDDL/Boucler-la-boucle/blob/main/docs/preproduction/medias/o3_plantation.png
+
 ### Luma Sol
 Les créateurs sont Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson.
 
 Le projet est interactif avec le visiteur. Celui peut pédaler sur un vélo stationnaire et cela activerait des lumière dans un arbre. Le but est donc d'inciter les personnes a prendre soin de la nature et d'en profiter pleinement.
 
+Voici leur shéma de plantation:
+
+![o3_plantation](https://user-images.githubusercontent.com/112189528/219512208-0a83dab2-0db8-434f-8f29-9bb463d93931.svg)
+
+source:https://github.com/Kawabongaaa/LumaSol/blob/main/docs/preproduction/medias/o3_plantation.svg
+
 ### Échomarine
 Les créatrices sont Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel. 
 
 Une projection du fond marin est diffusé sur trois murs où nous pouvons aussi voir des populations en exctinction. Sensibiliser la société à propos des fonds marins est le but principal de ce projet. 
+
+Voici leur shéma de plantation:
+
+![schema_plantation_echomarine](https://user-images.githubusercontent.com/112189528/219511756-81aa8570-047d-44b3-811a-21c2c8df8a81.png)
+
+source: https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/schema_plantation.png 
 
 ### Zodiadie Gal
 La personne qui a créé le projet est Abdanor Yara. 
