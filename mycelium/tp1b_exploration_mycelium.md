@@ -4,6 +4,12 @@ Les créateurs sont Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc
 
 Dans ce projet, la nature est représentée par les fausses plantes et le lieu dans lequel les visiteurs sont. De plus, l'industrialisation est elle aussi présentée par les structures métalliques. Des champignons illuminés seront aussi ajoutés pour fermer la boucle de la vie. Le tout est lié avec l'anthropocène. 
 
+Voici leur shéma de plantation:
+
+![o3_plantation](https://user-images.githubusercontent.com/112189528/219663056-a48ef611-d87c-4c5c-8939-fb70180b5ce6.svg)
+
+source: https://github.com/F-C-A/ENTRE-FUNGUS/tree/main/docs/preproduction#sc%C3%A9nario-sc%C3%A9narimage-ou-document-audiovisuel 
+
 ### Boucler la boucle
 Les créateurs sont Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers.
 
@@ -41,3 +47,10 @@ source: https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/me
 La personne qui a créé le projet est Abdanor Yara. 
 
 Le projet est un jeu web. Le visiteur doit aider une jeune fille à tuer des monstres.
+
+Voici leur shéma de plantation:
+
+![o3_plantation](https://user-images.githubusercontent.com/112189528/219663374-6bf38e97-300f-4eb0-bd6a-0d7bebe5807c.svg)
+
+source: https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg 
+
