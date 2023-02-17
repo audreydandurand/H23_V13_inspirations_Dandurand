@@ -1,4 +1,4 @@
-## Exploration projets de 3e année
+## Exploration des projets de 3e année
 ### Entre fungus
 Les créateurs sont Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Cristophe.
 
@@ -54,3 +54,9 @@ Voici leur shéma de plantation:
 
 source: https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg 
 
+## 3 Cours du programme incontournables
+* Web 5
+* Traitement audiovisuel
+* Animation 3D
+
+## Technique ou composante technologique
