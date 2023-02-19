@@ -75,4 +75,4 @@ Dans cette vidéo, nous avons un apperçu de l'interaction du visiteur avec l'oe
 J'aime le fait que l'œuvre est de type d'interaction, car elle permet de rendre la visite des visiteurs beaucoup plus enrichissante. C'est une oeuvre qui peut être intéressante pour n'importe quelle tranche d'âge. 
 
 ### Aspect à ne pas retenir
-Je crois que si l'exposition serait à refaire, je modifierais le sons produit lorsque l'image apparait sur l'écran. Il pourrait avoir plusieurs sons différents qui vont bien ensemble pour chaque image. De cette manière, il y aurait une variété sonore. Une autre idée intéressante serait que le sons pourrait varier selon la durée de l'image scannée. 
+Je crois que si l'exposition serait à refaire, je modifierais le son produit lorsque l'image apparaît sur l'écran. Il pourrait avoir plusieurs sons différents qui vont bien ensemble pour chaque image. De cette manière, il y aurait une variété sonore. Une autre idée intéressante serait que le son pourrait varier selon la durée de l'image scannée. 
