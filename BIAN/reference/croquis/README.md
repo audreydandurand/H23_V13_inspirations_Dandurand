@@ -1,1 +1,1 @@
-Ce dossier comprend le croquis de haut et de face de l'oeuvre.
+Ce dossier comprend les croquis de haut et de face de l'oeuvre.
