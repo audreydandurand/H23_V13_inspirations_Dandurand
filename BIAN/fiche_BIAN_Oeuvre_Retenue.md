@@ -52,7 +52,7 @@ La structure est placée au centre et à côté de celle-ci se trouve l'écran q
 ![affiche_bonne_dimension_09](https://user-images.githubusercontent.com/112189528/219099880-54495c73-d05c-49dd-8083-af3da17b2f52.png)
 
 ### Composantes et techniques 
-Les composantes de l'oeuvre sont nombreuses. Tout d'abord, il y a la structure qui est l'élément central de l'oeuvre. Des lumière Led et des ampoules sont nécessaire pour illuminer la structure. De plus, il y a la caméra incluse dans la structure qui permet de scanner l'image des visiteurs. Il y a le socle parterre qui permet de cacher les fils et les différents écrans qui diffuse les photographies. Des haut-parleurs sont aussi nécessaires pour diffuser le sons. Pour finir, il est sure qu'un ordinateur est nécessaire pour faire fonctionner l'oeuvre et des composantes électroniques doivent aussi être utilisées.
+Les composantes de l'oeuvre sont nombreuses. Tout d'abord, il y a la structure qui est l'élément central de l'oeuvre. Des lumières Led et des ampoules sont nécessaires pour illuminer la structure. De plus, il y a la caméra incluse dans la structure qui permet de scanner l'image des visiteurs. Il y a le socle parterre qui permet de cacher les fils et les différents écrans qui diffusent les photographies. Des haut-parleurs sont aussi nécessaires pour diffuser le son. Pour finir, il est sur qu'un ordinateur est nécessaire pour faire fonctionner l'oeuvre et des composantes électroniques doivent aussi être utilisées.
 
 ![affiche_vonne_dimension_03](https://user-images.githubusercontent.com/112189528/219091828-9ef4793b-635c-4b9d-83c0-998165087631.png)
 ![affiche_vonne_dimension_04](https://user-images.githubusercontent.com/112189528/219092234-b170f809-6972-4f23-81cf-0537124a7709.png)
@@ -65,8 +65,8 @@ Plusieurs éléments sont mis en place lors de l'exposition. Tout d'abord, il y 
 
 
 ### Expérience vécue
-Le visiteur est amené à interagir avec l'oeuvre en passant dans la structure qui est au centre de l'installation. Après y avoir passé, le visiteur peut observer l'image qui a été scannée et qui est elle-même projetée sur l'écran LED. L'image scannée projette un effet différent dépendament de la rapidité à laquelle on passe à l'intérieur de la structure. Lorsqu'on passe vite, l'image devient plus applatie et lorsqu'on passe plus lentement, la photographie est allongée. La disposition aléatoire des photographies prises et des effets appliqués peuvent être observés. Il y a entre autres des abberations chromatiques pour chaque image. 
-Dans cette vidéo, nous avons un apperçu de l'interaction du visiteur avec l'oeuvre: https://youtu.be/7HUZBPuqh7Y.
+Le visiteur est amené à interagir avec l'oeuvre en passant dans la structure qui est au centre de l'installation. Après y avoir passé, le visiteur peut observer l'image qui a été scannée et qui est elle-même projetée sur l'écran LED. L'image scannée projette un effet différent dépendamment de la rapidité à laquelle on passe à l'intérieur de la structure. Lorsqu'on passe vite, l'image devient plus aplatie et lorsqu'on passe plus lentement, la photographie est allongée. La disposition aléatoire des photographies prises et des effets appliqués peuvent être observés. Il y a entre autres des aberrations chromatiques pour chaque image. 
+Dans cette vidéo, nous avons un aperçu de l'interaction du visiteur avec l'oeuvre: https://youtu.be/7HUZBPuqh7Y.
 
 ![affiche_bonne_dimension_08](https://user-images.githubusercontent.com/112189528/219095967-4d302d8d-0be9-4bc7-92aa-70cf16c66e3b.png)
 ![affiche_bonne_dimension_11](https://user-images.githubusercontent.com/112189528/219099967-47bb6077-b070-40a0-be95-458b060ea803.png)
