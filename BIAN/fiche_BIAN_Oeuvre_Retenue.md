@@ -41,12 +41,12 @@ Cette vidéo montre l'oeuvre et les interactions des visiteurs: https://youtu.be
 
 
 ### Type d'installation 
-Les visiteurs sont amenés à interagir avec l'installation en passant sous la structure pour voir leur image projettée sur l'écran. Ils peuvent observer les effets des images projettées sur l'écran suite à une interaction avec l'oeuvre. Elle est donc défénit comme étant une oeuvre interractive. 
+Les visiteurs sont amenés à interagir avec l'installation en passant sous la structure pour voir leur image projetée sur l'écran. Ils peuvent observer les effets des images projetées sur l'écran suite à une interaction avec l'oeuvre. Elle est donc défénie comme étant une oeuvre interactive. 
 
 ![affiche_bonne_dimension_08](https://user-images.githubusercontent.com/112189528/219096907-56bcb4d9-bd86-4856-8cff-ea2ba3b66c1c.png)
 
 ### Mise en espace 
-La structure est placée au centre et à côté de celle-ci se trouve l'écran qui diffuse les photographies prises. La caméra est installée dans la structure de l'oeuvre pour capté les visiteurs lors de leur passage sous la structure. 
+La structure est placée au centre et à côté de celle-ci se trouve l'écran qui diffuse les photographies prises. La caméra est installée dans la structure de l'oeuvre pour capter les visiteurs lors de leur passage sous la structure. 
 
 ![affiche_bonne_dimension_10](https://user-images.githubusercontent.com/112189528/219099893-e323ea55-d5ee-4896-9ef7-3b9b46283327.png)
 ![affiche_bonne_dimension_09](https://user-images.githubusercontent.com/112189528/219099880-54495c73-d05c-49dd-8083-af3da17b2f52.png)
