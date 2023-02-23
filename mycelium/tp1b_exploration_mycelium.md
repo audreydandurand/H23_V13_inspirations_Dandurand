@@ -3,7 +3,7 @@
 #### Entre fungus
 Les créateurs sont Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Cristophe.
 
-Dans ce projet, la nature est représentée par les fausses plantes et le lieu dans lequel les visiteurs sont. De plus, l'industrialisation est elle aussi présentée par les structures métalliques. Des champignons illuminés seront aussi ajoutés pour fermer la boucle de la vie. Le tout est lié avec l'anthropocène. 
+Dans ce projet, la nature est représentée par les fausses plantes et le lieu dans lequel les visiteurs se déplacent. De plus, l'industrialisation est elle aussi présentée par les structures métalliques. Des champignons illuminés seront aussi ajoutés pour fermer la boucle de la vie. Le tout est lié avec l'anthropocène. 
 
 Voici leur shéma de plantation:
 
@@ -14,7 +14,7 @@ source: https://github.com/F-C-A/ENTRE-FUNGUS/tree/main/docs/preproduction#sc%C3
 #### Boucler la boucle
 Les créateurs sont Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers.
 
-Ce parcours interactif met en place la nature par la diffusion d'un marais. Les visiteurs sont donc entourés de ce monde. La nature et les humains sont donc bien représentés dans ce projet.
+Ce parcours interactif met en place la nature par la diffusion d'un marais. Les visiteurs sont donc entourés de ce monde. La nature et l'aspect humain sont donc bien représentés dans ce projet.
 
 Voici leur shéma de plantation:
 
@@ -61,3 +61,6 @@ source: https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/p
 * Animation 3D
 
 ### Technique ou composante technologique
+
+
+### Appréhension de l'expérience finale
