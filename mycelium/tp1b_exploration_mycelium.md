@@ -7,6 +7,8 @@ Dans ce projet, la nature est représentée par les fausses plantes et le lieu d
 
 Dans le studio, nous pouvons observer leur avancement dans le projet. Un prototype de la structure est placé au centre et nous pouvons l'expérimenter. Des hauts parleurs et des capteurs sont déjà installés pour mieux l'expérimenter. On peut voir les ordinateurs utilisés pour créer le projet placés à côté du prototype.
 
+J'ai placé ce projet au tout début, car c'est le projet qui m'intéresse le plus. Je trouve ça intéressant de pouvoir observer différents jeux de lumières dépendement de l'endroit où nous sommes placés autours de la structure. Des sons sont aussi produits et ils varient aussi en fonction des lumières. Je trouve que ce projet peut attirer des personnes qui ne s'attendent pas à trouver sur leur chemin un parcours interactif. Les visiteurs n'ont pas besoins d'interagir en premier avec l'œuvre. Elle se déclenche toute seule grâce à des capteurs de mouvements. Les visiteurs sont par la suite amené à plus interagir avec celle-ci.
+
 Voici leur shéma d'éclairage:
 
 ![plan_direction_capteur](https://user-images.githubusercontent.com/112189528/220972754-b484c523-62d0-46cd-b16b-6bac4f202d3e.png)
@@ -58,7 +60,7 @@ La personne qui a créé le projet est Abdanor Yara.
 
 Le projet est un jeu web. Le visiteur doit aider une jeune fille à tuer des monstres.
 
-Ce projet n'a pas pu être expérimenté dû à l'absence du créateur.
+Ce projet n'a pas pu être observé dû à l'absence du créateur.
 
 Voici leur shéma de plantation:
 
