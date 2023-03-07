@@ -7,6 +7,9 @@ Dans ce projet, la nature est représentée par les fausses plantes et le lieu d
 
 Dans le studio, nous pouvons observer leur avancement dans le projet. Un prototype de la structure est placé au centre et nous pouvons l'expérimenter. Des hauts parleurs et des capteurs sont déjà installés pour mieux l'expérimenter. On peut voir les ordinateurs utilisés pour créer le projet placés à côté du prototype.
 
+![IMG_1192](https://user-images.githubusercontent.com/112189528/223463178-15a21558-afa3-4cf1-8d41-9c56169110dc.png)
+![IMG_1189](https://user-images.githubusercontent.com/112189528/223463435-7aac9cdb-9986-4daf-bd19-fa51d926152b.png)
+
 J'ai placé ce projet au tout début, car c'est le projet qui m'intéresse le plus. Je trouve ça intéressant de pouvoir observer différents jeux de lumières dépendement de l'endroit où nous sommes placés autours de la structure. Des sons sont aussi produits et ils varient aussi en fonction des lumières. Je trouve que ce projet peut attirer des personnes qui ne s'attendent pas à trouver sur leur chemin un parcours interactif. Les visiteurs n'ont pas besoins d'interagir en premier avec l'œuvre. Elle se déclenche toute seule grâce à des capteurs de mouvements. Les visiteurs sont par la suite amené à plus interagir avec celle-ci.
 
 Voici leur shéma d'éclairage:
@@ -22,6 +25,8 @@ Le projet est interactif avec le visiteur. Celui-ci peut pédaler sur un vélo s
 
 Dans le studio, nous pouvons voir le vélo stationnaire qu'ils viennent de recevoir et tous les câbles qui serviront au projet. 
 
+![IMG_1188](https://user-images.githubusercontent.com/112189528/223463655-2fead77d-4e4c-4a3c-b979-878c127e7117.png)
+
 Voici leur shéma de plantation:
 
 ![plan_symbiotique lumasol](https://user-images.githubusercontent.com/112189528/220973553-89b7b2f6-6cfa-4d8c-bee1-cd0362266849.png)
@@ -35,6 +40,8 @@ Une projection du fond marin est diffusée sur trois murs où nous pouvons aussi
 
 Dans le petit studio, nous pouvons voir leur présentation sur un mur pour l'instant. Un projecteur projecte leur animation et un ordinateur est placé pour démarrer les animations. L'ordinateur est temporaire, puisque ce sera une tablette qui le remplacera lors de l'exposition.
 
+![IMG_1187](https://user-images.githubusercontent.com/112189528/223463902-e6faac6c-4ea7-437b-bc3b-ee84afba18b5.png)
+
 Voici leur shéma de plantation:
 
 ![schema_plantation_echomarine](https://user-images.githubusercontent.com/112189528/220973855-26e31001-61d9-4ac0-8881-a6a326c86251.png)
@@ -47,6 +54,8 @@ Les créateurs sont Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Max
 Ce parcours interactif met en place la nature par la diffusion d'un marais. Les visiteurs sont donc entourés de ce monde. La nature et l'aspect humain sont donc bien représentés dans ce projet.
 
 Dans le studio, nous pouvons voir un prototype de leur parcours. Nous pouvons expérimenter les deux parcours de lumières qu'ils ont installés.
+
+![IMG_1191](https://user-images.githubusercontent.com/112189528/223464215-33a550f1-6cb7-44ef-8f41-9624046e07a7.png)
 
 Voici leur shéma de plantation:
 
