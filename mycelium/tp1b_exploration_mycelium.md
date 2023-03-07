@@ -14,7 +14,7 @@ source: [https://github.com/F-C-A/ENTRE-FUNGUS/tree/main/docs/preproduction#sc%C
 #### Luma Sol
 Les créateurs sont Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson.
 
-Le projet est interactif avec le visiteur. Celui peut pédaler sur un vélo stationnaire et cela activerait des lumière dans un arbre. Le but est donc d'inciter les personnes a prendre soin de la nature et d'en profiter pleinement.
+Le projet est interactif avec le visiteur. Celui-ci peut pédaler sur un vélo stationnaire et cet action activerait des lumières dans un arbre. Le but est donc d'inciter les personnes à prendre soin de la nature et d'en profiter pleinement.
 
 Voici leur shéma de plantation:
 
@@ -25,7 +25,7 @@ source: https://github.com/Kawabongaaa/LumaSol/blob/main/docs/preproduction/medi
 #### Échomarine
 Les créatrices sont Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel. 
 
-Une projection du fond marin est diffusé sur trois murs où nous pouvons aussi voir des populations en exctinction. Sensibiliser la société à propos des fonds marins est le but principal de ce projet. 
+Une projection du fond marin est diffusée sur trois murs où nous pouvons aussi voir des populations d'animaux en extinction. Sensibiliser la société à propos des fonds marins est le but principal de ce projet. 
 
 Voici leur shéma de plantation:
 
@@ -83,7 +83,7 @@ source: https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/p
 * Animation 2D
 
 ### Technique ou composante technologique
-MadMapper est un logiciel que trois des équipes ont utilisés et que je ne connaissais pas. 
+MadMapper est un logiciel que trois des équipes ont utilisé et que je ne connaissais pas. 
 
 ### Appréhension de l'expérience finale
-Je crois que je serai impressionnée par le travail qu'ils ont fait. Le fait de savoir que nous aussi nous allons pouvoir réalisé un projet du même type à la fin de notre programme est impressionnant. La technique leurs a permis d'apprendre les bases pour réaliser des projets comme ceux-là et lors de la création du projet, ils ont dû apprendre d'autres notions par eux-même et être débrouillards. Dans deux ans, ce sera à notre tour de créer un projet semblable et nous auront appris assez de matières pour en être capable. 
+Je crois que je serai impressionnée par le travail qu'ils ont fait. Le fait de savoir que nous aussi nous allons pouvoir réaliser un projet du même type à la fin de notre programme est impressionnant. La technique leur a permis d'apprendre les bases pour réaliser des projets comme ceux-là et lors de la création du projet, ils ont dû apprendre d'autres notions par eux-mêmes et être débrouillards. Dans deux ans, ce sera à notre tour de créer un projet semblable et nous aurons appris assez de matières pour en être capable. 
