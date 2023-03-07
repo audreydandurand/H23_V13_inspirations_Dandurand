@@ -14,7 +14,7 @@ J'ai placé ce projet au tout début, car c'est le projet qui m'intéresse le pl
 
 Voici leur shéma d'éclairage:
 
-![plan_direction_capteur](https://user-images.githubusercontent.com/112189528/220972754-b484c523-62d0-46cd-b16b-6bac4f202d3e.png)
+![plan_direction_capteur](https://user-images.githubusercontent.com/112189528/223465464-31b3aee7-4adf-4a7a-ac7e-da88db974af3.png)
 
 source: [https://github.com/F-C-A/ENTRE-FUNGUS/tree/main/docs/preproduction#sc%C3%A9nario-sc%C3%A9narimage-ou-document-audiovisuel ](https://github.com/F-C-A/ENTRE-FUNGUS/tree/main/docs/preproduction/medias)
 
@@ -29,7 +29,7 @@ Dans le studio, nous pouvons voir le vélo stationnaire qu'ils viennent de recev
 
 Voici leur shéma de plantation:
 
-![plan_symbiotique lumasol](https://user-images.githubusercontent.com/112189528/220973553-89b7b2f6-6cfa-4d8c-bee1-cd0362266849.png)
+![plan_symbiotique lumasol](https://user-images.githubusercontent.com/112189528/223464704-41c28548-aaad-4b51-9a57-eefde610c109.png)
 
 source: https://github.com/Kawabongaaa/LumaSol/blob/main/docs/preproduction/medias/plan_symbiotique.png 
 
@@ -44,7 +44,7 @@ Dans le petit studio, nous pouvons voir leur présentation sur un mur pour l'ins
 
 Voici leur shéma de plantation:
 
-![schema_plantation_echomarine](https://user-images.githubusercontent.com/112189528/220973855-26e31001-61d9-4ac0-8881-a6a326c86251.png)
+![schema_plantation_echomarine](https://user-images.githubusercontent.com/112189528/223465038-72b5bf83-95f7-41ec-a5ee-96dc0242eec0.png)
 
 source: https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/schema_plantation.png 
 
@@ -59,7 +59,8 @@ Dans le studio, nous pouvons voir un prototype de leur parcours. Nous pouvons ex
 
 Voici leur shéma de plantation:
 
-![plantation boucle](https://user-images.githubusercontent.com/112189528/219512579-99c39bad-8903-4f53-8c7c-797c008d451d.png)
+![o3_plantation_boucle](https://user-images.githubusercontent.com/112189528/223465695-15f53808-648f-409f-80ac-7d7d0eb8c99b.png)
+
 
 source:https://github.com/Boucle-RDDL/Boucler-la-boucle/blob/main/docs/preproduction/medias/o3_plantation.png
 
