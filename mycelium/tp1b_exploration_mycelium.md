@@ -95,7 +95,7 @@ source: https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/p
 * Animation 2D
 
 ### Technique ou composante technologique
-MadMapper est un logiciel que trois des équipes ont utilisé et que je ne connaissais pas. Ce logiciel est utilisé pour la cartographie vidéo et LED. Il va faciliter la projection de vidéos et d'oeuvre sur des objets et batiments. 
+MadMapper est un logiciel que trois des équipes ont utilisé et que je ne connaissais pas. Ce logiciel est utilisé pour la cartographie vidéo et LED. Il va faciliter la projection de vidéos, textures et d'oeuvres sur des objets, décors et batiments. C´est un logiciel assez puissant et professionnel. 
 
 sources: https://madmapper.com/madmapper/software , https://sat.qc.ca/fr/formations/video-mapping-madmapper 
 
