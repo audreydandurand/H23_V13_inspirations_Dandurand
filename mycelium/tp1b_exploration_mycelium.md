@@ -5,6 +5,8 @@ Les créateurs sont Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc
 
 Dans ce projet, la nature est représentée par les fausses plantes et le lieu dans lequel les visiteurs se déplacent. De plus, l'industrialisation est elle aussi présentée par les structures métalliques. Des champignons illuminés seront aussi ajoutés pour fermer la boucle de la vie. Le tout est lié avec l'anthropocène. 
 
+Dans le studio, nous pouvons observer leur avancement dans le projet. Un prototype de la structure est placé au centre et nous pouvons l'expérimenter. Des hauts parleurs et des capteurs sont déjà installés pour mieux l'expérimenter. On peut voir les ordinateurs utilisés pour créer le projet placés à côté du prototype.
+
 Voici leur shéma d'éclairage:
 
 ![plan_direction_capteur](https://user-images.githubusercontent.com/112189528/220972754-b484c523-62d0-46cd-b16b-6bac4f202d3e.png)
@@ -15,6 +17,8 @@ source: [https://github.com/F-C-A/ENTRE-FUNGUS/tree/main/docs/preproduction#sc%C
 Les créateurs sont Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson.
 
 Le projet est interactif avec le visiteur. Celui-ci peut pédaler sur un vélo stationnaire et cet action activerait des lumières dans un arbre. Le but est donc d'inciter les personnes à prendre soin de la nature et d'en profiter pleinement.
+
+Dans le studio, nous pouvons voir le vélo stationnaire qu'ils viennent de recevoir et tous les câbles qui serviront au projet. 
 
 Voici leur shéma de plantation:
 
@@ -27,6 +31,8 @@ Les créatrices sont Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Lau
 
 Une projection du fond marin est diffusée sur trois murs où nous pouvons aussi voir des populations d'animaux en extinction. Sensibiliser la société à propos des fonds marins est le but principal de ce projet. 
 
+Dans le petit studio, nous pouvons voir leur présentation sur un mur pour l'instant. Un projecteur projecte leur animation et un ordinateur est placé pour démarrer les animations. L'ordinateur est temporaire, puisque ce sera une tablette qui le remplacera lors de l'exposition.
+
 Voici leur shéma de plantation:
 
 ![schema_plantation_echomarine](https://user-images.githubusercontent.com/112189528/220973855-26e31001-61d9-4ac0-8881-a6a326c86251.png)
@@ -37,6 +43,8 @@ source: https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/me
 Les créateurs sont Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers.
 
 Ce parcours interactif met en place la nature par la diffusion d'un marais. Les visiteurs sont donc entourés de ce monde. La nature et l'aspect humain sont donc bien représentés dans ce projet.
+
+Dans le studio, nous pouvons voir un prototype de leur parcours. Nous pouvons expérimenter les deux parcours de lumières qu'ils ont installés.
 
 Voici leur shéma de plantation:
 
@@ -49,6 +57,8 @@ source:https://github.com/Boucle-RDDL/Boucler-la-boucle/blob/main/docs/preproduc
 La personne qui a créé le projet est Abdanor Yara. 
 
 Le projet est un jeu web. Le visiteur doit aider une jeune fille à tuer des monstres.
+
+Ce projet n'a pas pu être expérimenté dû à l'absence du créateur.
 
 Voici leur shéma de plantation:
 
@@ -85,7 +95,7 @@ source: https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/p
 ### Technique ou composante technologique
 MadMapper est un logiciel que trois des équipes ont utilisé et que je ne connaissais pas. Ce logiciel est utilisé pour la cartographie vidéo et LED. Il va faciliter la projection de vidéos et d'oeuvre sur des objets et batiments. 
 
-source: https://madmapper.com/madmapper/software , https://sat.qc.ca/fr/formations/video-mapping-madmapper 
+sources: https://madmapper.com/madmapper/software , https://sat.qc.ca/fr/formations/video-mapping-madmapper 
 
 ### Appréhension de l'expérience finale
 Je crois que je serai impressionnée par le travail qu'ils ont fait. Le fait de savoir que nous aussi nous allons pouvoir réaliser un projet du même type à la fin de notre programme est impressionnant. La technique leur a permis d'apprendre les bases pour réaliser des projets comme ceux-là et lors de la création du projet, ils ont dû apprendre d'autres notions par eux-mêmes et être débrouillards. Dans deux ans, ce sera à notre tour de créer un projet semblable et nous aurons appris assez de matières pour en être capable. 
