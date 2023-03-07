@@ -5,12 +5,12 @@ Les créateurs sont Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc
 
 Dans ce projet, la nature est représentée par les fausses plantes et le lieu dans lequel les visiteurs se déplacent. De plus, l'industrialisation est elle aussi présentée par les structures métalliques. Des champignons illuminés seront aussi ajoutés pour fermer la boucle de la vie. Le tout est lié avec l'anthropocène. 
 
-Dans le studio, nous pouvons observer leur avancement dans le projet. Un prototype de la structure est placé au centre et nous pouvons l'expérimenter. Des hauts parleurs et des capteurs sont déjà installés pour mieux l'expérimenter. On peut voir les ordinateurs utilisés pour créer le projet placés à côté du prototype.
+Dans le studio, nous pouvons observer leur avancement dans le projet. Un prototype de la structure est placé au centre et nous pouvons l'expérimenter. Des haut-parleurs et des capteurs sont déjà installés pour mieux l'expérimenter. On peut voir les ordinateurs utilisés qui sont placés à côté du prototype.
 
 ![IMG_1192](https://user-images.githubusercontent.com/112189528/223463178-15a21558-afa3-4cf1-8d41-9c56169110dc.png)
 ![IMG_1189](https://user-images.githubusercontent.com/112189528/223463435-7aac9cdb-9986-4daf-bd19-fa51d926152b.png)
 
-J'ai placé ce projet au tout début, car c'est le projet qui m'intéresse le plus. Je trouve ça intéressant de pouvoir observer différents jeux de lumières dépendement de l'endroit où nous sommes placés autours de la structure. Des sons sont aussi produits et ils varient aussi en fonction des lumières. Je trouve que ce projet peut attirer des personnes qui ne s'attendent pas à trouver sur leur chemin un parcours interactif. Les visiteurs n'ont pas besoins d'interagir en premier avec l'œuvre. Elle se déclenche toute seule grâce à des capteurs de mouvements. Les visiteurs sont par la suite amené à plus interagir avec celle-ci.
+J'ai placé ce projet au tout début, car c'est le projet qui m'intéresse le plus. Je trouve ça intéressant de pouvoir observer différents jeux de lumières qui  dépendent de l'endroit où nous sommes placés autours de la structure. Des sons sont aussi produits et ils varient aussi en fonction des lumières. Je trouve que ce projet peut attirer des personnes qui ne s'attendent pas à trouver sur leur chemin un parcours interactif. Les visiteurs n'ont pas besoin d'interagir en premier avec l'œuvre. Elle se déclenche toute seule grâce à des capteurs de mouvements. Les visiteurs sont par la suite amenés à plus interagir avec celle-ci.
 
 Voici leur shéma d'éclairage:
 
@@ -38,7 +38,7 @@ Les créatrices sont Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Lau
 
 Une projection du fond marin est diffusée sur trois murs où nous pouvons aussi voir des populations d'animaux en extinction. Sensibiliser la société à propos des fonds marins est le but principal de ce projet. 
 
-Dans le petit studio, nous pouvons voir leur présentation sur un mur pour l'instant. Un projecteur projecte leur animation et un ordinateur est placé pour démarrer les animations. L'ordinateur est temporaire, puisque ce sera une tablette qui le remplacera lors de l'exposition.
+Dans le petit studio, nous pouvons voir leur présentation sur un mur pour l'instant. Un projecteur difuse leur animation et un ordinateur est placé pour démarrer les animations. L'ordinateur est temporaire, puisque ce sera une tablette qui le remplacera lors de l'exposition.
 
 ![IMG_1187](https://user-images.githubusercontent.com/112189528/223463902-e6faac6c-4ea7-437b-bc3b-ee84afba18b5.png)
 
@@ -74,7 +74,7 @@ Ce projet n'a pas pu être observé dû à l'absence du créateur.
 
 Voici leur shéma de plantation:
 
-![o3_plantation](https://user-images.githubusercontent.com/112189528/219663374-6bf38e97-300f-4eb0-bd6a-0d7bebe5807c.svg)
+![o3_plantation](https://user-images.githubusercontent.com/112189528/223466429-828aefbc-e1be-4c40-8f28-590d8759fb04.png)
 
 source: https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg 
 
@@ -105,7 +105,7 @@ source: https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/p
 * Animation 2D
 
 ### Technique ou composante technologique
-MadMapper est un logiciel que trois des équipes ont utilisé et que je ne connaissais pas. Ce logiciel est utilisé pour la cartographie vidéo et LED. Il va faciliter la projection de vidéos, textures et d'oeuvres sur des objets, décors et batiments. C´est un logiciel assez puissant et professionnel. 
+MadMapper est un logiciel que trois des équipes ont utilisé et que je ne connaissais pas. Ce logiciel est utilisé pour la cartographie vidéo et LED. Il va faciliter la projection de vidéos, textures et d'oeuvres sur des objets, décors et bâtiments. C'est un logiciel puissant et professionnel. 
 
 sources: https://madmapper.com/madmapper/software , https://sat.qc.ca/fr/formations/video-mapping-madmapper 
 
