@@ -12,9 +12,9 @@ Dans le studio, nous pouvons observer leur avancement dans le projet. Un prototy
 
 J'ai placé ce projet au tout début, car c'est le projet qui m'intéresse le plus. Je trouve ça intéressant de pouvoir observer différents jeux de lumières qui  dépendent de l'endroit où nous sommes placés autours de la structure. Des sons sont aussi produits et ils varient aussi en fonction des lumières. Je trouve que ce projet peut attirer des personnes qui ne s'attendent pas à trouver sur leur chemin un parcours interactif. Les visiteurs n'ont pas besoin d'interagir en premier avec l'œuvre. Elle se déclenche toute seule grâce à des capteurs de mouvements. Les visiteurs sont par la suite amenés à plus interagir avec celle-ci.
 
-Voici leur shéma d'éclairage:
+Voici leur schéma d'éclairage:
 
-![plan_direction_capteur](https://user-images.githubusercontent.com/112189528/223465464-31b3aee7-4adf-4a7a-ac7e-da88db974af3.png)
+![schema_entre_fungus](https://user-images.githubusercontent.com/112189528/224037873-bc57a50f-cf77-4f5f-a4ee-c74346b94f24.png)
 
 source: [https://github.com/F-C-A/ENTRE-FUNGUS/tree/main/docs/preproduction#sc%C3%A9nario-sc%C3%A9narimage-ou-document-audiovisuel ](https://github.com/F-C-A/ENTRE-FUNGUS/tree/main/docs/preproduction/medias)
 
@@ -27,9 +27,9 @@ Dans le studio, nous pouvons voir le vélo stationnaire qu'ils viennent de recev
 
 ![studio_lumas_sol](https://user-images.githubusercontent.com/112189528/224036357-3caad756-81d5-44ec-81f1-40dbe6725a6b.png)
 
-Voici leur shéma de plantation:
+Voici leur schéma de plantation:
 
-![plan_symbiotique lumasol](https://user-images.githubusercontent.com/112189528/223464704-41c28548-aaad-4b51-9a57-eefde610c109.png)
+![schema_lumas_sol](https://user-images.githubusercontent.com/112189528/224037942-1fd0c1ba-6514-4126-ae9a-cbbdd24ec9c1.png)
 
 source: https://github.com/Kawabongaaa/LumaSol/blob/main/docs/preproduction/medias/plan_symbiotique.png 
 
@@ -42,9 +42,9 @@ Dans le petit studio, nous pouvons voir leur présentation sur un mur pour l'ins
 
 ![studio_echomarine](https://user-images.githubusercontent.com/112189528/224036393-32296a74-5da9-413e-b4e7-18690bf8f8d3.png)
 
-Voici leur shéma de plantation:
+Voici leur schéma de plantation:
 
-![schema_plantation_echomarine](https://user-images.githubusercontent.com/112189528/223465038-72b5bf83-95f7-41ec-a5ee-96dc0242eec0.png)
+![schema_echomarine](https://user-images.githubusercontent.com/112189528/224037980-7383c3b9-78ae-40a8-aef1-66636f2ecc2a.png)
 
 source: https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/schema_plantation.png 
 
@@ -57,10 +57,9 @@ Dans le studio, nous pouvons voir un prototype de leur parcours. Nous pouvons ex
 
 ![studio_boucler_boucle](https://user-images.githubusercontent.com/112189528/224036430-e48dba15-5c4c-4d39-a463-6b82a4789922.png)
 
-Voici leur shéma de plantation:
+Voici leur schéma de plantation:
 
-![o3_plantation_boucle](https://user-images.githubusercontent.com/112189528/223465695-15f53808-648f-409f-80ac-7d7d0eb8c99b.png)
-
+![shema_boucler_boucle](https://user-images.githubusercontent.com/112189528/224038022-40db9ddd-b046-4b9a-aaa3-558f27c9cf94.png)
 
 source:https://github.com/Boucle-RDDL/Boucler-la-boucle/blob/main/docs/preproduction/medias/o3_plantation.png
 
@@ -72,9 +71,9 @@ Le projet est un jeu web. Le visiteur doit aider une jeune fille à tuer des mon
 
 Ce projet n'a pas pu être observé dû à l'absence du créateur.
 
-Voici leur shéma de plantation:
+Voici leur schéma de plantation:
 
-![o3_plantation](https://user-images.githubusercontent.com/112189528/223466429-828aefbc-e1be-4c40-8f28-590d8759fb04.png)
+![shema_Zodiadie_Gal](https://user-images.githubusercontent.com/112189528/224038050-8394d3e4-0781-4082-99ae-ed6f0b2f5e71.png)
 
 source: https://github.com/tim-montmorency/66B-modele_de_projet/blob/main/docs/preproduction/medias/o3_plantation.svg 
 
