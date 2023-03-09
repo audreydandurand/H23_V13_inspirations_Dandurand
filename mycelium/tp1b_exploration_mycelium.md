@@ -7,8 +7,8 @@ Dans ce projet, la nature est représentée par les fausses plantes et le lieu d
 
 Dans le studio, nous pouvons observer leur avancement dans le projet. Un prototype de la structure est placé au centre et nous pouvons l'expérimenter. Des haut-parleurs et des capteurs sont déjà installés pour mieux l'expérimenter. On peut voir les ordinateurs utilisés qui sont placés à côté du prototype.
 
-![IMG_1192](https://user-images.githubusercontent.com/112189528/223463178-15a21558-afa3-4cf1-8d41-9c56169110dc.png)
-![IMG_1189](https://user-images.githubusercontent.com/112189528/223463435-7aac9cdb-9986-4daf-bd19-fa51d926152b.png)
+![studio_entre_fungus_02](https://user-images.githubusercontent.com/112189528/224036213-a814a843-5896-4e2c-98de-d5d0398ce1ae.png)
+![studio_entre_fungus](https://user-images.githubusercontent.com/112189528/224036242-d07cbe79-4987-48b7-9eb1-b87c7c0c1b04.png)
 
 J'ai placé ce projet au tout début, car c'est le projet qui m'intéresse le plus. Je trouve ça intéressant de pouvoir observer différents jeux de lumières qui  dépendent de l'endroit où nous sommes placés autours de la structure. Des sons sont aussi produits et ils varient aussi en fonction des lumières. Je trouve que ce projet peut attirer des personnes qui ne s'attendent pas à trouver sur leur chemin un parcours interactif. Les visiteurs n'ont pas besoin d'interagir en premier avec l'œuvre. Elle se déclenche toute seule grâce à des capteurs de mouvements. Les visiteurs sont par la suite amenés à plus interagir avec celle-ci.
 
@@ -25,7 +25,7 @@ Le projet est interactif avec le visiteur. Celui-ci peut pédaler sur un vélo s
 
 Dans le studio, nous pouvons voir le vélo stationnaire qu'ils viennent de recevoir et tous les câbles qui serviront au projet. 
 
-![IMG_1188](https://user-images.githubusercontent.com/112189528/223463655-2fead77d-4e4c-4a3c-b979-878c127e7117.png)
+![studio_lumas_sol](https://user-images.githubusercontent.com/112189528/224036357-3caad756-81d5-44ec-81f1-40dbe6725a6b.png)
 
 Voici leur shéma de plantation:
 
@@ -40,7 +40,7 @@ Une projection du fond marin est diffusée sur trois murs où nous pouvons aussi
 
 Dans le petit studio, nous pouvons voir leur présentation sur un mur pour l'instant. Un projecteur difuse leur animation et un ordinateur est placé pour démarrer les animations. L'ordinateur est temporaire, puisque ce sera une tablette qui le remplacera lors de l'exposition.
 
-![IMG_1187](https://user-images.githubusercontent.com/112189528/223463902-e6faac6c-4ea7-437b-bc3b-ee84afba18b5.png)
+![studio_echomarine](https://user-images.githubusercontent.com/112189528/224036393-32296a74-5da9-413e-b4e7-18690bf8f8d3.png)
 
 Voici leur shéma de plantation:
 
@@ -55,7 +55,7 @@ Ce parcours interactif met en place la nature par la diffusion d'un marais. Les 
 
 Dans le studio, nous pouvons voir un prototype de leur parcours. Nous pouvons expérimenter les deux parcours de lumières qu'ils ont installés.
 
-![IMG_1191](https://user-images.githubusercontent.com/112189528/223464215-33a550f1-6cb7-44ef-8f41-9624046e07a7.png)
+![studio_boucler_boucle](https://user-images.githubusercontent.com/112189528/224036430-e48dba15-5c4c-4d39-a463-6b82a4789922.png)
 
 Voici leur shéma de plantation:
 
