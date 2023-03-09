@@ -1,3 +1,4 @@
+# Notes
 Nom de l'exposition ou de l'événement:   Luminotherapie 13e édition à Montréal dans le quartier des spectacles 
 
 Lieu de mise en exposition:    Esplanade de la place des arts	Vous devant l'entrée de l'édifice
