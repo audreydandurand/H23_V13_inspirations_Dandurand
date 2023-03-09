@@ -24,9 +24,9 @@ Le projet est interactif avec le visiteur. Celui-ci peut pédaler sur un vélo s
 
 Dans le studio, nous pouvons voir le vélo stationnaire qu'ils viennent de recevoir et tous les câbles qui serviront au projet. 
 
-J'ai placé ce projet en deuxième position, car j'aime le fait que les visiteurs sont amenés à faire de l'exercice pour activer l'animation. L'oeuvre reste quand même active lorsqu'il n'y a personne, mais moins que s'il y avait une personne sur le vélo. Cela permet d'attirer les visiteurs. 
-
 ![studio_lumas_sol](https://user-images.githubusercontent.com/112189528/224036357-3caad756-81d5-44ec-81f1-40dbe6725a6b.png)
+
+J'ai placé ce projet en deuxième position, car j'aime le fait que les visiteurs sont amenés à faire de l'exercice pour activer l'animation. L'oeuvre reste quand même active lorsqu'il n'y a personne, mais moins que s'il y avait une personne sur le vélo. Cela permet d'attirer les visiteurs. 
 
 Voici leur schéma de plantation:
 
@@ -41,9 +41,9 @@ Une projection du fond marin est diffusée sur trois murs où nous pouvons aussi
 
 Dans le petit studio, nous pouvons voir leur présentation sur un mur pour l'instant. Un projecteur difuse leur animation et un ordinateur est placé pour démarrer les animations. L'ordinateur est temporaire, puisque ce sera une tablette qui le remplacera lors de l'exposition.
 
-J'ai placé ce projet en troisième position, car j'aime le fait qu'il y a une interaction montrant des animaux en voie de disparition et qu'il y a une description sur celui-ci. De plus, j'aime les animations qui ont été réalisées, mais je trouve que le projet n'est pas très original. Le principe est souvent revu. 
-
 ![studio_echomarine](https://user-images.githubusercontent.com/112189528/224036393-32296a74-5da9-413e-b4e7-18690bf8f8d3.png)
+
+J'ai placé ce projet en troisième position, car j'aime le fait qu'il y a une interaction montrant des animaux en voie de disparition et qu'il y a une description sur celui-ci. De plus, j'aime les animations qui ont été réalisées, mais je trouve que le projet n'est pas très original. Le principe est souvent revu. 
 
 Voici leur schéma de plantation:
 
@@ -58,9 +58,9 @@ Ce parcours interactif met en place la nature par la diffusion d'un marais. Les 
 
 Dans le studio, nous pouvons voir un prototype de leur parcours. Deux parcours de lumières ont été installés et nous pouvons expérimenter le début de leur parcours. Les deux parcours de lumières sont actifs et ils intéragissent avec les visiteurs grâce à des capteurs.  
 
-J'ai placé ce projet en quatrième position, car ce projet m'intéresse un peu moins. J'aime le fait qu'il y ait un parcours de lumière intéragissant avec les visiteurs. Par contre, je trouve le parcours un peu moins interactif que les autres et que c'est un peu plus minimaliste. 
-
 ![studio_boucler_boucle](https://user-images.githubusercontent.com/112189528/224036430-e48dba15-5c4c-4d39-a463-6b82a4789922.png)
+
+J'ai placé ce projet en quatrième position, car ce projet m'intéresse un peu moins. J'aime le fait qu'il y ait un parcours de lumière intéragissant avec les visiteurs. Par contre, je trouve le parcours un peu moins interactif que les autres et que c'est un peu plus minimaliste. 
 
 Voici leur schéma de plantation:
 
