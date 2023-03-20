@@ -38,7 +38,7 @@ L'oeuvre est construite d'une série d'arches. Ces arches produisent des lumièr
 ### Type d'installation 
 C'esr une installation interractive, puisque les visiteurs peuvent interragir avec celle-ci. En passant, dans les arches, des sons sont produits et ceux-ci peuvent observer ce qu'il se passe. De la lumière bleue et rouges est aussi produite par l'installation. 
 
-![IMG_1503 redimensionné](https://user-images.githubusercontent.com/112189528/225638194-c1c09fc5-0baf-4db9-914e-f6cd975ae592.png)!
+![IMG_1503 redimensionné](https://user-images.githubusercontent.com/112189528/225638194-c1c09fc5-0baf-4db9-914e-f6cd975ae592.png)
 
 ### Mise en espace 
 La structure est placée dans l'Esplanade de la place des arts aux côtés d'autres activités et oeuvres. Sa fiche de description est placée juste à sa droite pour bien s'y référer. Les arches sont tous placées une à la suite de l'autre toutes en étant relié sur les côté par les tuyeaux cachant les fils. Les capteurs et lumières Leds pour chaque arche sont à l'intérieur de celles-ci.
@@ -49,9 +49,14 @@ La structure est placée dans l'Esplanade de la place des arts aux côtés d'aut
 https://youtu.be/tooWj_Pbc4A 
 
 ### Composantes et techniques 
+- Des lumières Leds sont utilisées pour illuminer l´interieur de l´arche. Celles-ci sont placées dans l´intérieur de la structure.
 ![IMG_1507 redimensionné](https://user-images.githubusercontent.com/112189528/225639032-214beb51-cc00-472e-a610-1980f4ec54ec.png)
+- Des capteurs sont placés entre les lumières Leds dans l´interieur de la structure. Ils sont placés à la hauteur du sujet. 
 ![IMG_1510 redimensionné](https://user-images.githubusercontent.com/112189528/225639094-a573fd4e-cbfd-48ca-9aec-c5f4115e5f66.png)
 ![IMG_1512 redimensionné](https://user-images.githubusercontent.com/112189528/225639113-8d60b1a7-f757-4e26-82b4-2a5d0b6db12f.png)
+- La structure est la composantes necessaire pour l´exposition de l´oeuvre.
+- Des hauts-parleurs sont aussi necessaire.
+
 
 ### Éléments nécessaires à la mise en exposition
 
@@ -66,4 +71,4 @@ https://youtu.be/yEL2R99SUdE
 Je trouve intéressant le fait que l'oeuvre soit placée dans un endroit publique où beaucoup de personnes se promènent. L'oeuvre est aussi entourée d'autres installations interactives et d'activités et cela peut amener plus de visiteurs. J'aime aussi le fait que cette installation peut relier tous les groupes d'âge. 
 
 ### Aspect à ne pas retenir
-Je crois que j'aurais ajouter plus de changements de couleurs pour capter encore plus le visiteurs. 
+Je crois que j'aurais ajouter plus de changements de couleurs pour capter encore plus le visiteurs. J'aurais peut-être ajouter des variations sonores plus intéressantes.
