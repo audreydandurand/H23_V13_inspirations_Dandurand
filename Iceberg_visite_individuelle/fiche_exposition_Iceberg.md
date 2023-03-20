@@ -56,9 +56,10 @@ https://youtu.be/tooWj_Pbc4A
 ![IMG_1512 redimensionné](https://user-images.githubusercontent.com/112189528/225639113-8d60b1a7-f757-4e26-82b4-2a5d0b6db12f.png)
 - La structure est la composante necessaire pour l'exposition de l'oeuvre.
 - Des hauts-parleurs sont aussi necessaire.
-
+- Des caches-fils sont aussi présents dans la structure. Les fils sont cachés dans les tuyeaux retenant les arches.
 
 ### Éléments nécessaires à la mise en exposition
+- Le cartel a du être creé par l'organisation de l'exposition de la Luminotherapie pour différencier toutes les oeuvres interractives. 
 
 ### Expérience vécue
 Pour les visiteurs, ce type d'installation est interressant, puisque ça amène le passant à interagir avec celui-ci. Le visiteur pourra passer sous la série d'arches et contempler ce qui se produit. Il peut observer les sons produits en fonction de sa vitesse ou du temps passé dans une seule arche. Cela rend l'activité plus dynamique.
