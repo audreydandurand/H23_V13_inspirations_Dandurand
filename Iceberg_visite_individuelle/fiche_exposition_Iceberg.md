@@ -49,12 +49,12 @@ La structure est placée dans l'Esplanade de la place des arts aux côtés d'aut
 https://youtu.be/tooWj_Pbc4A 
 
 ### Composantes et techniques 
-- Des lumières Leds sont utilisées pour illuminer l´interieur de l´arche. Celles-ci sont placées dans l´intérieur de la structure.
+- Des lumières Leds sont utilisées pour illuminer l'interieur de l'arche. Celles-ci sont placées dans l´intérieur de la structure.
 ![IMG_1507 redimensionné](https://user-images.githubusercontent.com/112189528/225639032-214beb51-cc00-472e-a610-1980f4ec54ec.png)
-- Des capteurs sont placés entre les lumières Leds dans l´interieur de la structure. Ils sont placés à la hauteur du sujet. 
+- Des capteurs sont placés entre les lumières Leds dans l'interieur de la structure. Ils sont placés à la hauteur du sujet. 
 ![IMG_1510 redimensionné](https://user-images.githubusercontent.com/112189528/225639094-a573fd4e-cbfd-48ca-9aec-c5f4115e5f66.png)
 ![IMG_1512 redimensionné](https://user-images.githubusercontent.com/112189528/225639113-8d60b1a7-f757-4e26-82b4-2a5d0b6db12f.png)
-- La structure est la composantes necessaire pour l´exposition de l´oeuvre.
+- La structure est la composante necessaire pour l'exposition de l'oeuvre.
 - Des hauts-parleurs sont aussi necessaire.
 
 
