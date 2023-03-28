@@ -1,6 +1,6 @@
 # Edria
 ### Nom de l'exposition    
-L'exposition s'intitule Mycélium - Expérience multimédia interactive.
+L'exposition s'intitule Mycélium. C'est une expérience multimédia interactive.
 
 ### Lieu de mise en exposition
 L'exposition a lieu au collège Montmorency devant la porte 1.
