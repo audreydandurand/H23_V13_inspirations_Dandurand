@@ -6,7 +6,7 @@ L'exposition s'intitule Mycélium. C'est une expérience multimédia interactive
 L'exposition a lieu au collège Montmorency devant la porte 1.
 
 ### Type d'exposition
-L'exposition est présentés principalement à l'extérieur. Il y a seulement une oeuvre qui était presentée à l'intérieur dans le petit studio du programme TIM. L'oeuvre est  temporaire , puisqu'elle est présentée du 20 au 23 mars 2023.
+L'exposition est présentés principalement à l'extérieur. Il y a seulement une oeuvre qui était presentée à l'intérieur dans le petit studio du programme TIM. L'oeuvre est  temporaire, puisqu'elle est présentée du 20 au 23 mars 2023.
 
 ### Date de la visite
 La visite a eu lieu le 23 mars en après-midi.
@@ -18,7 +18,7 @@ L'oeuvre se nomme Edria et ancienement nommée Entre fungus.
 Edria est créée par Meryem Berbiche, Gabriel Leblanc,Elwin Durand, Loic Delorme, Dominic Roberts et Jean-Christophe Zephir.
 
 ### Année de réalisation
-L'oeuvre a été créée en 2023:
+L'oeuvre a été créée en 2023.
 
 ### Description de l'oeuvre      
 L’oeuvre est installée dans le chemin des espaces publics extérieurs du collège (devant la porte 1). L’oeuvre est composée de plusieurs structures. Une d’entre elles est placée au centre et les autres forment un cercle autour d’elle. C’est celle du centre qui va permettre l’interaction avec le visiteur. Un capteur de mouvement est installé sur chaque côté de la structure centrale. De la lumière et des sons différents sont produits par chaque capteurs. Lorsqu’il y a du mouvement devant les quatre côtés, des  nouveaux jeux de lumières et sonores sont produits.
