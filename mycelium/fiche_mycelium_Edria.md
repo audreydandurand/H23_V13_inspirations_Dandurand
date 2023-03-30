@@ -49,15 +49,13 @@ La structure interagissant avec les visiteurs se retrouve au milieu de l’espac
 
 ![IMG_1690_redimensionné](https://user-images.githubusercontent.com/112189528/228870784-051d38d2-fdbf-4549-af7e-e38f81b3cf60.png)
 
-- Des lumières sont nécessaires pour visualiser l'interaction que l'oeuvre a avec les visiteurs. Des globes seront ajoutés sur les lumières pour améliorer l'esthétique. 
+- Des lumières sont nécessaires pour visualiser l'interaction que l'oeuvre a avec les visiteurs. Des globes seront ajoutés sur les lumières pour améliorer l'esthétique. En plus, de cette sorte de lumière, il y a des bandes Led et des projecteurs. 
 
 ![IMG_1691_redimensionné](https://user-images.githubusercontent.com/112189528/228870855-6ce361eb-f499-4cc6-836a-37ce48df7d9f.png)
 
 - Des haut-parleurs sont placés sur les poteaux pour accentuer l'ambiance de l'oeuvre.
 - Des structures (poteaux) sont placées et composent l'oeuvre. 
 - Des fausses plantes sont aussi placées sur les structure permettantune meilleure ambiance et pour mieux relier leur oeuvre à leur but. 
-
-![IMG_1696_redimensionné](https://user-images.githubusercontent.com/112189528/228870998-067391e9-beb2-4c98-98b3-6e4e181b539d.png)
 
 ### Éléments nécessaires à la mise en exposition
 - Un cabanon centrale est utilisé pour controler l'oeuvre. Il contient un Mac mini, une carte de son, un amplificateur, etc...
