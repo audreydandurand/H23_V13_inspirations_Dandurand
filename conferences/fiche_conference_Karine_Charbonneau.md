@@ -1,4 +1,4 @@
-### Conférence de Karine Charbonneau
+# Conférence de Karine Charbonneau
 
 Karine Charbonneau est la directrice des expositions du studio Antimodular. C'est un studio de production travaillant pour un artiste. Celui-ci se nomme Rafael Lozano-Hemmer. C'est un artiste mexicain et canadien et il travaille avec des arts électroniques. Le fonctionnement et une description du studio sont bien expliqués. 
 
