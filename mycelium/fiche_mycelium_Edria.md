@@ -69,4 +69,4 @@ Le visiteur est amené à interagir avec l’œuvre. Le visiteur pourra se prome
 J’aime le fait que les œuvres sont placées dans les espaces publics du collège et aussi devant une porte assez occupée. De plus, le fait que les effets produits dépendent des côtés où des personnes sont captées autours de la structure centrale est très intéressant. 
 
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-Je crois que je rajouterais un élément pour attirer encore plus le visiteur lorsqu’il y a personne autours de la structure. Des effets sonores peuvent être ajoutés et créer un peu plus de jeux de lumière.
+Je crois que je rajouterais un élément pour attirer encore plus le visiteur lorsqu’il y a personne autours de la structure. Des effets sonores peuvent être ajoutés et créer un peu plus de jeux de lumière pourrait être intéressant.
