@@ -10,3 +10,47 @@ Présenter l'oeuvre nommé Iceberg qui se situait à l'esplanade de la place des
 - Lien avec les autres oeuvres vues lors du cours. 
 
 ### Développement
+#### Informations primaires
+- Créer pour l'exposition de Luminotherapie (13e édition)
+- Dans l'Esplanade de la place des arts à Montréal
+- Oeuvre: Iceberg
+- Par: APPAREIL architecture et ATOMIC3
+- Développé depuis 2012
+- Exposition extérieure et temporaire
+- Visite: le jeudi 2 mars 2023
+
+#### Présentation détaillée
+- Description: 
+
+      - Série d'arches (lumières produites)
+      - Musique calme et sons (gouttes d'eau qui tombe, le bruit du vent, ambiance sonore de la nature, etc...)
+      - Passants passent à l'intérieur de l'installation
+      - Passants observent et entendent ce qui se passe
+- Type d'installation:
+
+      - Installation interractive - visiteurs interragissent avec oeuvre 
+      - Sons sont produits lors d'interaction avec visiteurs
+      - Lumière bleue et rouges est produit par l'installation
+- Fonction:
+
+      - Accessible à tous
+      - 
+- Mise en espace:
+
+      - Dans l'Esplanade de la place des arts 
+      - Autres activités et oeuvres autours
+      - Fiche de description est placée juste à sa droite
+      - Suite d'arches placées une à la suite de l'autre 
+      - Composantes à l'intérieur (ex: capteurs, lumières Leds, fils, haut-parleurs, etc...)
+- Composantes:
+
+      - Lumières Leds 
+      - Capteurs
+      - Structure
+      - Haut-parleurs
+      - Cache-fils
+- Éléments:
+
+      - Cartel produit par l'organisation de l'exposition
+ 
+#### Expérience vécue
