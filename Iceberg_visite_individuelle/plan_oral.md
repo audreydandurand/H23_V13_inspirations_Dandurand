@@ -55,7 +55,10 @@ Présenter l'oeuvre nommé Iceberg qui se situait à l'esplanade de la place des
  
 #### Expérience vécue
 - Interaction entre structure et visiteurs
-- Visiteurs passent dans série arches
+- Geste posé: Visiteurs passent dans série arches
 - Observent effets produits, entendent sons et ambiance sonore, interagissent avec oeuvre(vitesse passage, nombre de personne, etc...)
 - Activité est dynamique
 
+#### Appréciation de l'oeuvre
+- Accessible à tous, car dans un espace publique où il y a beaucoup de personnes.
+- Entouré de plusieurs oeuvres.
