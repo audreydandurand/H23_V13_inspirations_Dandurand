@@ -1,1 +1,1 @@
-Ce dossier comprend décrit deux conférences que nous avons eues.
+Ce dossier décrit deux conférences que nous avons eues dans le cadre du cours.
