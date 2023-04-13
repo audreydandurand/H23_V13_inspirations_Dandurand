@@ -11,7 +11,7 @@ L'exposition a eu lieu à l'Esplanade de la place des arts.
 ![IMG_1518 redimensionné](https://user-images.githubusercontent.com/112189528/225637591-9b1b26d7-982b-4069-b7c1-b118d936fc06.png)
 
 ### Type d'exposition
-C'est une exposition extérieur et temporaire, car elle est présentée du 1er décembre 2023 au 5 mars 2023.
+C'est une exposition extérieure et temporaire, car elle est présentée du 1er décembre 2023 au 5 mars 2023.
 
 ### Date de votre visite
 La visite a eu lieu le jeudi 2 mars 2023.
