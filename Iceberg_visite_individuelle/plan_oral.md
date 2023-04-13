@@ -54,3 +54,8 @@ Présenter l'oeuvre nommé Iceberg qui se situait à l'esplanade de la place des
       - Cartel produit par l'organisation de l'exposition
  
 #### Expérience vécue
+- Interaction entre structure et visiteurs
+- Visiteurs passent dans série arches
+- Observent effets produits, entendent sons et ambiance sonore, interagissent avec oeuvre(vitesse passage, nombre de personne, etc...)
+- Activité est dynamique
+
