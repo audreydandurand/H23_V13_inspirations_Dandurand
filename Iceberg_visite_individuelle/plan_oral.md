@@ -62,3 +62,6 @@ Présenter l'oeuvre nommé Iceberg qui se situait à l'esplanade de la place des
 #### Appréciation de l'oeuvre
 - Accessible à tous, car dans un espace publique où il y a beaucoup de personnes.
 - Entouré de plusieurs oeuvres.
+
+#### Lien avec d'autres oeuvres vues
+- Interaction avec visiteurs (projets mycelium
