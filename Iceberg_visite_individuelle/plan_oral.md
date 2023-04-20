@@ -68,10 +68,12 @@ Présenter l'oeuvre nommé Iceberg qui se situait à l'esplanade de la place des
 
 ### Conclusion
 - Rappel aspects 
+
       - Oeuvre: Iceberg
       - Par: APPAREIL architecture et ATOMIC3
       - Oeuvre interractive à Montréal pendant une partie hivers
       - Plusieurs composantes nécessaires
 
 - Ouverture
+
       - ??? 
