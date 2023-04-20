@@ -59,10 +59,12 @@ La structure interagissant avec les visiteurs se retrouve au milieu de l’espac
 
 ### Éléments nécessaires à la mise en exposition
 - Un cabanon centrale est utilisé pour controler l'oeuvre. Il contient un Mac mini, une carte de son, un amplificateur ainsi que d'autres composantes diverses. 
+
 ![IMG_1696_redimensionné](https://user-images.githubusercontent.com/112189528/228871161-76b2e2f3-2277-4352-85b4-fd7a84ee0891.png)
 
 ### Expérience vécue
-Le visiteur est amené à interagir avec l’œuvre. Le visiteur pourra se promener autours de l’œuvre et observer les jeux de lumières et les sons produits. Différents sons sont produits dépendement du côté de la structure où des personnes sont captées. Même chose pour les jeux de lumière et les animations présentes sur les structures.   
+Le visiteur est amené à interagir avec l’œuvre. Le visiteur pourra se promener autours de l’œuvre et observer les jeux de lumières et les sons produits. Différents sons sont produits dépendement du côté de la structure où des personnes sont captées. Même chose pour les jeux de lumière et les animations présentes sur les structures. 
+
 ![IMG_1689_redimensionné](https://user-images.githubusercontent.com/112189528/228870490-b0a766e1-5aaf-49f7-af38-11053ce8c752.png)
 
 ### Ce qui vous a plu, vous a donné des idées
@@ -70,3 +72,8 @@ J’aime le fait que les œuvres sont placées dans les espaces publics du coll�
 
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Je crois que je rajouterais un élément pour attirer encore plus le visiteur lorsqu’il y a personne autours de la structure. Des effets sonores peuvent être ajoutés et créer un peu plus de jeux de lumière pourrait être intéressant.
+
+### Source pour certains éléments:
+https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+ 
+https://github.com/F-C-A/EDRIA
