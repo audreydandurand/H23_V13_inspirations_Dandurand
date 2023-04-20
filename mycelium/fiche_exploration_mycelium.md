@@ -117,3 +117,6 @@ sources: https://madmapper.com/madmapper/software , https://sat.qc.ca/fr/formati
 
 ## Appréhension de l'expérience finale
 Je crois que je serai impressionnée par le travail qu'ils ont fait. Le fait de savoir que nous aussi nous allons pouvoir réaliser un projet du même type à la fin de notre programme est impressionnant. La technique leur a permis d'apprendre les bases pour réaliser des projets comme ceux-là et lors de la création du projet, ils ont dû apprendre d'autres notions par eux-mêmes et être débrouillards. Dans deux ans, ce sera à notre tour de créer un projet semblable et nous aurons appris assez de matières pour en être capable. 
+
+## Sources: 
+https://tim-montmorency.com/2023/ 
