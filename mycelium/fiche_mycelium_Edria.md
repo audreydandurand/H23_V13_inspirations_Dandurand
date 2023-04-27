@@ -75,7 +75,7 @@ J’aime le fait que les œuvres sont placées dans les espaces publics du coll�
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Je crois que je rajouterais un élément pour attirer encore plus le visiteur lorsqu’il y a personne autours de la structure. Des effets sonores peuvent être ajoutés et créer un peu plus de jeux de lumière pourrait être intéressant.
 
-### Source pour certains éléments:
+### Sources:
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
  
 https://github.com/F-C-A/EDRIA
