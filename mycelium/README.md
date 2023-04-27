@@ -1,1 +1,1 @@
-Ce dossier inclut l'exploration des projets de 3e année.
+Ce dossier inclut les projets des 3e années dans le programme Tim.
