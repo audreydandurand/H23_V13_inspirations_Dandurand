@@ -32,6 +32,8 @@ L'oeuvre a été créée en 2023.
 ### Description de l'oeuvre      
 L’oeuvre est installée dans le chemin des espaces publics extérieurs du collège (devant la porte 1). L’oeuvre est composée de plusieurs structures. Une d’entre elles est placée au centre et les autres forment un cercle autour d’elle. C’est celle du centre qui va permettre l’interaction avec le visiteur. Un capteur de mouvement est installé sur chaque côté de la structure centrale. Il y en a donc 4. De la lumière et des sons différents sont produits par chaque capteurs lorsqu'ils détectent du mouvement. Lorsqu’il y a du mouvement devant les quatre côtés, des jeux de lumières et sonores différents sont produits.
 
+https://youtu.be/mkEfzimejFM
+
 ![IMG_1683_redimensionné](https://user-images.githubusercontent.com/112189528/228869981-d8c3bd48-e56b-49d5-b4cd-f3939f6e8771.png)
 ![IMG_1692_redimensionné](https://user-images.githubusercontent.com/112189528/228870081-fc4df81a-1cb5-467f-a772-b2359e2a4fa3.png)
 
