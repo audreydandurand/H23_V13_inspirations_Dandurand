@@ -77,4 +77,3 @@ Présenter l'oeuvre nommée Iceberg qui se situait à l'esplanade de la place de
 - Ouverture
 
       - Découvert l'importance de la documentation pour créer une oeuvre.
-      - ??? 
