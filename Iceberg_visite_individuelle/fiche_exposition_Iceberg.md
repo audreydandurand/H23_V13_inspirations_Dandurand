@@ -72,4 +72,4 @@ https://youtu.be/yEL2R99SUdE
 Je trouve intéressant le fait que l'oeuvre soit placée dans un endroit publique où beaucoup de personnes se promènent. L'oeuvre est aussi entourée d'autres installations interactives et d'activités et cela peut amener plus de visiteurs. J'aime aussi le fait que cette installation peut relier tous les groupes d'âge. 
 
 ### Aspect à ne pas retenir
-Je crois que j'aurais ajouter plus de changements de couleurs pour capter encore plus le visiteurs. J'aurais peut-être ajouter des variations sonores plus intéressantes.
+Je crois que j'aurais ajouté des variations sonores plus intéressantes et celles-ci pourraient être liées aux mouvements captés par les capteurs. 
