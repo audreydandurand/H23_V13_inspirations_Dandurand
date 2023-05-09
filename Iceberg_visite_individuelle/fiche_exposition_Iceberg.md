@@ -25,6 +25,7 @@ L'oeuvre choisie se nomme Iceberg.
 L'oeuvre Iceberg est réalisée par APPAREIL architecture et ATOMIC3.
 
 ![IMG_1491 redimensionné](https://user-images.githubusercontent.com/112189528/225637805-17bad54e-a492-4e57-b067-fe505ac5a6e8.png)
+![IMG_1382_redimensionnée](https://github.com/audreydandurand/H23_V13_inspirations_Dandurand/assets/112189528/28a627b2-6647-44ba-89ca-8a1445203d25)
 
 ### Année de réalisation 
 Cette oeuvre est en production depuis 2012.
@@ -34,6 +35,7 @@ L'oeuvre est construite d'une série d'arches. Ces arches produisent des lumièr
 
 ![IMG_1492 redimensionné](https://user-images.githubusercontent.com/112189528/225637872-b62183c4-a01c-426e-b74f-83199994da35.png)
 ![IMG_1494 redimensionné](https://user-images.githubusercontent.com/112189528/225638141-1637e1f7-ec38-4d8c-b516-1878ab3e158d.png)
+![IMG_1379_redimensionnée](https://github.com/audreydandurand/H23_V13_inspirations_Dandurand/assets/112189528/431fa0b9-8398-443b-952f-62bf7253a265)
 
 ### Type d'installation 
 C'esr une installation interractive, puisque les visiteurs peuvent interragir avec celle-ci. En passant, dans les arches, des sons sont produits et ceux-ci peuvent observer ce qu'il se passe. De la lumière bleue et rouges est aussi produite par l'installation. 
