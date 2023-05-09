@@ -36,11 +36,15 @@ L'oeuvre est construite d'une série d'arches. Ces arches produisent des lumièr
 ![IMG_1494 redimensionné](https://user-images.githubusercontent.com/112189528/225638141-1637e1f7-ec38-4d8c-b516-1878ab3e158d.png)
 ![IMG_1382_redimensionnée](https://github.com/audreydandurand/H23_V13_inspirations_Dandurand/assets/112189528/28a627b2-6647-44ba-89ca-8a1445203d25)
 
+Image soir de Prethiah Rajaratnam
+
 ### Type d'installation 
 C'esr une installation interractive, puisque les visiteurs peuvent interragir avec celle-ci. En passant, dans les arches, des sons sont produits et ceux-ci peuvent observer ce qu'il se passe. De la lumière bleue et rouges est aussi produite par l'installation. 
 
 ![IMG_1503 redimensionné](https://user-images.githubusercontent.com/112189528/225638194-c1c09fc5-0baf-4db9-914e-f6cd975ae592.png)
 ![IMG_1379_redimensionnée](https://github.com/audreydandurand/H23_V13_inspirations_Dandurand/assets/112189528/431fa0b9-8398-443b-952f-62bf7253a265)
+
+Image soir de Prethiah Rajaratnam
 
 ### Mise en espace 
 La structure est placée dans l'Esplanade de la place des arts aux côtés d'autres activités et oeuvres. Sa fiche de description est placée juste à sa droite pour bien s'y référer. Les arches sont tous placées une à la suite de l'autre toutes en étant relié sur les côté par les tuyeaux cachant les fils. Les capteurs et lumières Leds pour chaque arche sont à l'intérieur de celles-ci.
